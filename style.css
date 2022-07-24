@@ -1,0 +1,17 @@
+body{text-align: center;
+}
+#Games{
+background-color: rgb(2, 2, 168);
+}
+#apps{
+    background-color: darkseagreen;
+}
+#idk{
+    background-color: greenyellow;
+
+}
+.line{
+    width: 50px;
+    height: 2px;
+    background-color: mediumturquoise;
+}
